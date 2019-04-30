@@ -1,4 +1,4 @@
-# PanNet-Landsat8
+# PanNet-Landsat
 Implementation of PanNet by Chainer. Landsat 8 images are used in this repository.  
 
 ![overview](imgs/architecture.png)
